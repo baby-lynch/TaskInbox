@@ -3,7 +3,7 @@ import os.path
 from tkinter import messagebox
 import tkinter.font as tkFont
 
-#--------------------------函数和定义------------------------------
+#--------------------------函数和声明------------------------------
 itemlist = []
 #用来对任务进行暂时存储
 
